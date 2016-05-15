@@ -73,7 +73,7 @@
                 android:textStyle="bold"/>
 
             <Button
-                android:layout_width="347dp"
+                android:layout_width="352dp"
                 android:layout_height="wrap_content"
                 android:text="Sign Up or Register"
                 android:id="@+id/buttonReg"
